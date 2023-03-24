@@ -1,4 +1,4 @@
-Hi 👋, I'm Priyanka Bed
+Hi 👋, I'm Priyanka Bed</br>
 I'm a Full-Stack Web Developer living in Nordenham, Germany</br>
 
 -🌱 i’m currently learning javascript Language...</br>
