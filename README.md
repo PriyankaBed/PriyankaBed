@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankabed&label=Profile%20views&color=0e75b6&style=flat" alt="priyankabed" /> </p>
 
 
-- 🌱 I’m currently learning **javascript Language...**
 
 - 📫 How to reach me **priyanka.bed@outlook.com**
 
